@@ -1,5 +1,5 @@
 # react-app-webback
 
-## RUN
+## run
 
 `npm run start`
